@@ -1,0 +1,5 @@
+# Assignment 1: Get familiar with S3
+### Answer
+
+###### Based on the reference file size (233kb), the total storage needed for 5000 destinations x 60 months is 69900000 kb, which represent 69,9Gb.
+###### The amazon s3 pricing guide indicates that the storage cost for each Gb is 0,0125 USD (for UE - Irlanda Region), thus, in our case the total cost of the service will be 0,875 USD.

@@ -22,3 +22,6 @@
 ###### The results shows an increase in the 'errors queries' between first days of August (starting at 1,18%), and second week (the peak at 3,73%). Since then, the percentage decrease considerably until set the average arround a 1% (even ending September at 0,71%).
 
 ###### Considering this decrease of the percentage and the stability in a low average for 'Error Queries' during last 4 weeks (+ final days of Septembers), I think the team deserves the bonus.  
+
+## Comment ##
+I like this conclusion a lot.
